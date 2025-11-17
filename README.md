@@ -102,7 +102,7 @@ task-management-dashboard/
 │   │   │   ├── ActivityFeed.js
 │   │   │   └── UpcomingTasks.js
 │   │   ├── projects/
-│   │   │   ├── ProjectList.js (optional, simplified in page)
+│   │   │   ├── ProjectList.js 
 │   │   │   ├── ProjectCard.js
 │   │   │   └── ProjectForm.js
 │   │   └── tasks/
